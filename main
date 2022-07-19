@@ -808,4 +808,5 @@ func main() {
 		return
 	}
 	fmt.Println("hello,world")
+	fmt.Println("hello,golang")
 }
